@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Homnaadda/LeetCode/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/Homnaadda/LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Homnaadda/LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
+| [1314-matrix-block-sum](https://github.com/Homnaadda/LeetCode/tree/master/1314-matrix-block-sum) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Homnaadda/LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Two Pointers
 |  |
@@ -65,4 +66,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Homnaadda/LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Homnaadda/LeetCode/tree/master/0724-find-pivot-index) |
+| [1314-matrix-block-sum](https://github.com/Homnaadda/LeetCode/tree/master/1314-matrix-block-sum) |
+## Matrix
+|  |
+| ------- |
+| [1314-matrix-block-sum](https://github.com/Homnaadda/LeetCode/tree/master/1314-matrix-block-sum) |
 <!---LeetCode Topics End-->
